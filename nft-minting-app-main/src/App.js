@@ -281,7 +281,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  The first 1,000 are free and limited to 3 per wallet. The remaining 9,000 are 0.0025 ETH with a max mint of 20 per txn and 100 per wallet.
+                  THE BOBLINS SPOKE AND WE LISTENED! 0.0025 ETH with a max mint of 20 per txn.
 
                 </s.TextTitle>
                 <s.SpacerXSmall />

@@ -281,7 +281,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  THE BOBLINS SPOKE AND WE LISTENED! 0 ETH with a max mint of 20 per txn.
+                 SOLD OUT!
 
                 </s.TextTitle>
                 <s.SpacerXSmall />
